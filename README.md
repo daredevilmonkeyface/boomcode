@@ -1,4 +1,5 @@
 HELlo this is the github readme not the real one read dat for info
+nevermind git deleted it
 
 
 Functions
